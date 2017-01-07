@@ -32,7 +32,7 @@
 --------|---------
 first_name | Chuck
 last_name | Norris
-proffesion | Godlike Ranger
+profession | Godlike Ranger
 </br>
 **2. POST handler**
 
